@@ -97,3 +97,23 @@ padding:25px;
 }
 
 }
+.hero{
+background:#0f172a;
+color:white;
+text-align:center;
+padding:60px 20px;
+}
+
+.subtitle{
+font-size:18px;
+margin-top:10px;
+color:#cbd5e1;
+}
+
+.hero-buttons{
+margin-top:25px;
+}
+
+.hero-buttons .button{
+margin:5px;
+}
